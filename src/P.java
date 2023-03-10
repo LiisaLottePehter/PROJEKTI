@@ -1,6 +1,6 @@
 public class P {
     public static void main(String[] args) {
-        System.out.println("Terekkk");
+        System.out.println("Tere kas töötab");
     }
 }
 
