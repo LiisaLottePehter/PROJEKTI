@@ -22,6 +22,7 @@ public class App {
 
     }
 
+
     //Testi tegemise meetod
     public static void teeTest(Küsimused[] küsimused){
         int tulemus = 0;
